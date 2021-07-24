@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="C:\Krishna\sample-codebase\java-design-patterns\iterator\src\main\java\com\iluwatar\iterator\App.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\iterator\src\main\java\com\iluwatar\iterator\bst\BstIterator.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\iterator\src\main\java\com\iluwatar\iterator\bst\TreeNode.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\iterator\src\main\java\com\iluwatar\iterator\Iterator.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\iterator\src\main\java\com\iluwatar\iterator\list\Item.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\iterator\src\main\java\com\iluwatar\iterator\list\ItemType.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\iterator\src\main\java\com\iluwatar\iterator\list\TreasureChest.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\iterator\src\main\java\com\iluwatar\iterator\list\TreasureChestItemIterator.java">
+</file>
+</checkstyle>

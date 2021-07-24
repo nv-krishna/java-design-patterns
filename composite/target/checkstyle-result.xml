@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="C:\Krishna\sample-codebase\java-design-patterns\composite\src\main\java\com\iluwatar\composite\App.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\composite\src\main\java\com\iluwatar\composite\Letter.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\composite\src\main\java\com\iluwatar\composite\LetterComposite.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\composite\src\main\java\com\iluwatar\composite\Messenger.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\composite\src\main\java\com\iluwatar\composite\Sentence.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\composite\src\main\java\com\iluwatar\composite\Word.java">
+</file>
+</checkstyle>

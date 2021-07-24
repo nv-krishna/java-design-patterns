@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="C:\Krishna\sample-codebase\java-design-patterns\service-layer\src\main\java\com\iluwatar\servicelayer\app\App.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\service-layer\src\main\java\com\iluwatar\servicelayer\common\BaseEntity.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\service-layer\src\main\java\com\iluwatar\servicelayer\common\Dao.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\service-layer\src\main\java\com\iluwatar\servicelayer\common\DaoBaseImpl.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\service-layer\src\main\java\com\iluwatar\servicelayer\hibernate\HibernateUtil.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\service-layer\src\main\java\com\iluwatar\servicelayer\magic\MagicService.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\service-layer\src\main\java\com\iluwatar\servicelayer\magic\MagicServiceImpl.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\service-layer\src\main\java\com\iluwatar\servicelayer\spell\Spell.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\service-layer\src\main\java\com\iluwatar\servicelayer\spell\SpellDao.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\service-layer\src\main\java\com\iluwatar\servicelayer\spell\SpellDaoImpl.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\service-layer\src\main\java\com\iluwatar\servicelayer\spellbook\Spellbook.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\service-layer\src\main\java\com\iluwatar\servicelayer\spellbook\SpellbookDao.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\service-layer\src\main\java\com\iluwatar\servicelayer\spellbook\SpellbookDaoImpl.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\service-layer\src\main\java\com\iluwatar\servicelayer\wizard\Wizard.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\service-layer\src\main\java\com\iluwatar\servicelayer\wizard\WizardDao.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\service-layer\src\main\java\com\iluwatar\servicelayer\wizard\WizardDaoImpl.java">
+</file>
+</checkstyle>

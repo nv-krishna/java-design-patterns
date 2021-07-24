@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="C:\Krishna\sample-codebase\java-design-patterns\service-locator\src\main\java\com\iluwatar\servicelocator\App.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\service-locator\src\main\java\com\iluwatar\servicelocator\InitContext.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\service-locator\src\main\java\com\iluwatar\servicelocator\Service.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\service-locator\src\main\java\com\iluwatar\servicelocator\ServiceCache.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\service-locator\src\main\java\com\iluwatar\servicelocator\ServiceImpl.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\service-locator\src\main\java\com\iluwatar\servicelocator\ServiceLocator.java">
+</file>
+</checkstyle>

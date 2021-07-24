@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="C:\Krishna\sample-codebase\java-design-patterns\poison-pill\src\main\java\com\iluwatar\poison\pill\App.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\poison-pill\src\main\java\com\iluwatar\poison\pill\Consumer.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\poison-pill\src\main\java\com\iluwatar\poison\pill\Message.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\poison-pill\src\main\java\com\iluwatar\poison\pill\MessageQueue.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\poison-pill\src\main\java\com\iluwatar\poison\pill\MqPublishPoint.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\poison-pill\src\main\java\com\iluwatar\poison\pill\MqSubscribePoint.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\poison-pill\src\main\java\com\iluwatar\poison\pill\Producer.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\poison-pill\src\main\java\com\iluwatar\poison\pill\SimpleMessage.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\poison-pill\src\main\java\com\iluwatar\poison\pill\SimpleMessageQueue.java">
+</file>
+</checkstyle>

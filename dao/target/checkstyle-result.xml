@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="C:\Krishna\sample-codebase\java-design-patterns\dao\src\main\java\com\iluwatar\dao\App.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\dao\src\main\java\com\iluwatar\dao\Customer.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\dao\src\main\java\com\iluwatar\dao\CustomerDao.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\dao\src\main\java\com\iluwatar\dao\CustomerSchemaSql.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\dao\src\main\java\com\iluwatar\dao\CustomException.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\dao\src\main\java\com\iluwatar\dao\DbCustomerDao.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\dao\src\main\java\com\iluwatar\dao\InMemoryCustomerDao.java">
+</file>
+</checkstyle>

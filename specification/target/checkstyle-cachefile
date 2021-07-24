@@ -1,0 +1,25 @@
+#Sun Jul 25 01:45:38 IST 2021
+C\:\\Krishna\\sample-codebase\\java-design-patterns\\specification\\src\\main\\java\\com\\iluwatar\\specification\\selector\\MassEqualSelector.java=1627157333863
+C\:\\Krishna\\sample-codebase\\java-design-patterns\\specification\\src\\main\\java\\com\\iluwatar\\specification\\creature\\Octopus.java=1627157333856
+C\:\\Krishna\\sample-codebase\\java-design-patterns\\specification\\src\\main\\java\\com\\iluwatar\\specification\\creature\\AbstractCreature.java=1627157333854
+C\:\\Krishna\\sample-codebase\\java-design-patterns\\specification\\src\\main\\java\\com\\iluwatar\\specification\\property\\Movement.java=1627157333858
+C\:\\Krishna\\sample-codebase\\java-design-patterns\\specification\\src\\main\\java\\com\\iluwatar\\specification\\selector\\ColorSelector.java=1627157333860
+C\:\\Krishna\\sample-codebase\\java-design-patterns\\specification\\src\\main\\java\\com\\iluwatar\\specification\\selector\\ConjunctionSelector.java=1627157333862
+C\:\\Krishna\\sample-codebase\\java-design-patterns\\specification\\src\\main\\java\\com\\iluwatar\\specification\\property\\Mass.java=1627157333858
+C\:\\Krishna\\sample-codebase\\java-design-patterns\\specification\\src\\main\\java\\com\\iluwatar\\specification\\creature\\Dragon.java=1627157333855
+C\:\\Krishna\\sample-codebase\\java-design-patterns\\specification\\src\\main\\java\\com\\iluwatar\\specification\\selector\\AbstractSelector.java=1627157333860
+C\:\\Krishna\\sample-codebase\\java-design-patterns\\specification\\src\\main\\java\\com\\iluwatar\\specification\\selector\\NegationSelector.java=1627157333864
+C\:\\Krishna\\sample-codebase\\java-design-patterns\\specification\\src\\main\\java\\com\\iluwatar\\specification\\selector\\DisjunctionSelector.java=1627157333862
+C\:\\Krishna\\sample-codebase\\java-design-patterns\\specification\\src\\main\\java\\com\\iluwatar\\specification\\property\\Color.java=1627157333857
+C\:\\Krishna\\sample-codebase\\java-design-patterns\\specification\\src\\main\\java\\com\\iluwatar\\specification\\selector\\SizeSelector.java=1627157333865
+C\:\\Krishna\\sample-codebase\\java-design-patterns\\specification\\src\\main\\java\\com\\iluwatar\\specification\\creature\\Creature.java=1627157333855
+C\:\\Krishna\\sample-codebase\\java-design-patterns\\specification\\src\\main\\java\\com\\iluwatar\\specification\\creature\\KillerBee.java=1627157333856
+configuration*?=8AB4221B94C5A73E24B844FAA84804B50B31100
+C\:\\Krishna\\sample-codebase\\java-design-patterns\\specification\\src\\main\\java\\com\\iluwatar\\specification\\selector\\MassSmallerThanOrEqSelector.java=1627157333864
+C\:\\Krishna\\sample-codebase\\java-design-patterns\\specification\\src\\main\\java\\com\\iluwatar\\specification\\creature\\Goblin.java=1627157333856
+C\:\\Krishna\\sample-codebase\\java-design-patterns\\specification\\src\\main\\java\\com\\iluwatar\\specification\\app\\App.java=1627157333854
+C\:\\Krishna\\sample-codebase\\java-design-patterns\\specification\\src\\main\\java\\com\\iluwatar\\specification\\selector\\MovementSelector.java=1627157333864
+C\:\\Krishna\\sample-codebase\\java-design-patterns\\specification\\src\\main\\java\\com\\iluwatar\\specification\\creature\\Shark.java=1627157333857
+C\:\\Krishna\\sample-codebase\\java-design-patterns\\specification\\src\\main\\java\\com\\iluwatar\\specification\\property\\Size.java=1627157333859
+C\:\\Krishna\\sample-codebase\\java-design-patterns\\specification\\src\\main\\java\\com\\iluwatar\\specification\\selector\\MassGreaterThanSelector.java=1627157333863
+C\:\\Krishna\\sample-codebase\\java-design-patterns\\specification\\src\\main\\java\\com\\iluwatar\\specification\\creature\\Troll.java=1627157333857

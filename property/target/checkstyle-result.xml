@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="C:\Krishna\sample-codebase\java-design-patterns\property\src\main\java\com\iluwatar\property\App.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\property\src\main\java\com\iluwatar\property\Character.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\property\src\main\java\com\iluwatar\property\Prototype.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\property\src\main\java\com\iluwatar\property\Stats.java">
+</file>
+</checkstyle>

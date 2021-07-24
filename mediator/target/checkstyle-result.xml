@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="C:\Krishna\sample-codebase\java-design-patterns\mediator\src\main\java\com\iluwatar\mediator\Action.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\mediator\src\main\java\com\iluwatar\mediator\App.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\mediator\src\main\java\com\iluwatar\mediator\Hobbit.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\mediator\src\main\java\com\iluwatar\mediator\Hunter.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\mediator\src\main\java\com\iluwatar\mediator\Party.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\mediator\src\main\java\com\iluwatar\mediator\PartyImpl.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\mediator\src\main\java\com\iluwatar\mediator\PartyMember.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\mediator\src\main\java\com\iluwatar\mediator\PartyMemberBase.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\mediator\src\main\java\com\iluwatar\mediator\Rogue.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\mediator\src\main\java\com\iluwatar\mediator\Wizard.java">
+</file>
+</checkstyle>

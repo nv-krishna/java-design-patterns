@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="C:\Krishna\sample-codebase\java-design-patterns\tolerant-reader\src\main\java\com\iluwatar\tolerantreader\App.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\tolerant-reader\src\main\java\com\iluwatar\tolerantreader\RainbowFish.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\tolerant-reader\src\main\java\com\iluwatar\tolerantreader\RainbowFishSerializer.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\tolerant-reader\src\main\java\com\iluwatar\tolerantreader\RainbowFishV2.java">
+</file>
+</checkstyle>

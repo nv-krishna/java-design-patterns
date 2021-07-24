@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="C:\Krishna\sample-codebase\java-design-patterns\flyweight\src\main\java\com\iluwatar\flyweight\AlchemistShop.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\flyweight\src\main\java\com\iluwatar\flyweight\App.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\flyweight\src\main\java\com\iluwatar\flyweight\HealingPotion.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\flyweight\src\main\java\com\iluwatar\flyweight\HolyWaterPotion.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\flyweight\src\main\java\com\iluwatar\flyweight\InvisibilityPotion.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\flyweight\src\main\java\com\iluwatar\flyweight\PoisonPotion.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\flyweight\src\main\java\com\iluwatar\flyweight\Potion.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\flyweight\src\main\java\com\iluwatar\flyweight\PotionFactory.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\flyweight\src\main\java\com\iluwatar\flyweight\PotionType.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\flyweight\src\main\java\com\iluwatar\flyweight\StrengthPotion.java">
+</file>
+</checkstyle>

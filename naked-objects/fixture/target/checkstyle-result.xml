@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="C:\Krishna\sample-codebase\java-design-patterns\naked-objects\fixture\src\main\java\domainapp\fixture\DomainAppFixturesProvider.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\naked-objects\fixture\src\main\java\domainapp\fixture\modules\simple\SimpleObjectCreate.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\naked-objects\fixture\src\main\java\domainapp\fixture\modules\simple\SimpleObjectsTearDown.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\naked-objects\fixture\src\main\java\domainapp\fixture\scenarios\RecreateSimpleObjects.java">
+</file>
+</checkstyle>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="C:\Krishna\sample-codebase\java-design-patterns\pipeline\src\main\java\com\iluwatar\pipeline\App.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\pipeline\src\main\java\com\iluwatar\pipeline\ConvertToCharArrayHandler.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\pipeline\src\main\java\com\iluwatar\pipeline\Handler.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\pipeline\src\main\java\com\iluwatar\pipeline\Pipeline.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\pipeline\src\main\java\com\iluwatar\pipeline\RemoveAlphabetsHandler.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\pipeline\src\main\java\com\iluwatar\pipeline\RemoveDigitsHandler.java">
+</file>
+</checkstyle>

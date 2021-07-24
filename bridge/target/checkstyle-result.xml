@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="C:\Krishna\sample-codebase\java-design-patterns\bridge\src\main\java\com\iluwatar\bridge\App.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\bridge\src\main\java\com\iluwatar\bridge\Enchantment.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\bridge\src\main\java\com\iluwatar\bridge\FlyingEnchantment.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\bridge\src\main\java\com\iluwatar\bridge\Hammer.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\bridge\src\main\java\com\iluwatar\bridge\SoulEatingEnchantment.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\bridge\src\main\java\com\iluwatar\bridge\Sword.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\bridge\src\main\java\com\iluwatar\bridge\Weapon.java">
+</file>
+</checkstyle>

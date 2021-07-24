@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="C:\Krishna\sample-codebase\java-design-patterns\resource-acquisition-is-initialization\src\main\java\com\iluwatar\resource\acquisition\is\initialization\App.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\resource-acquisition-is-initialization\src\main\java\com\iluwatar\resource\acquisition\is\initialization\SlidingDoor.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\resource-acquisition-is-initialization\src\main\java\com\iluwatar\resource\acquisition\is\initialization\TreasureChest.java">
+</file>
+</checkstyle>

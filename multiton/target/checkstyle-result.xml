@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="C:\Krishna\sample-codebase\java-design-patterns\multiton\src\main\java\com\iluwatar\multiton\App.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\multiton\src\main\java\com\iluwatar\multiton\Nazgul.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\multiton\src\main\java\com\iluwatar\multiton\NazgulEnum.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\multiton\src\main\java\com\iluwatar\multiton\NazgulName.java">
+</file>
+</checkstyle>

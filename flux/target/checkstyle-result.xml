@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="C:\Krishna\sample-codebase\java-design-patterns\flux\src\main\java\com\iluwatar\flux\action\Action.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\flux\src\main\java\com\iluwatar\flux\action\ActionType.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\flux\src\main\java\com\iluwatar\flux\action\Content.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\flux\src\main\java\com\iluwatar\flux\action\ContentAction.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\flux\src\main\java\com\iluwatar\flux\action\MenuAction.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\flux\src\main\java\com\iluwatar\flux\action\MenuItem.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\flux\src\main\java\com\iluwatar\flux\app\App.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\flux\src\main\java\com\iluwatar\flux\dispatcher\Dispatcher.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\flux\src\main\java\com\iluwatar\flux\store\ContentStore.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\flux\src\main\java\com\iluwatar\flux\store\MenuStore.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\flux\src\main\java\com\iluwatar\flux\store\Store.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\flux\src\main\java\com\iluwatar\flux\view\ContentView.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\flux\src\main\java\com\iluwatar\flux\view\MenuView.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\flux\src\main\java\com\iluwatar\flux\view\View.java">
+</file>
+</checkstyle>

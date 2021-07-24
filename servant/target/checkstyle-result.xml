@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="C:\Krishna\sample-codebase\java-design-patterns\servant\src\main\java\com\iluwatar\servant\App.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\servant\src\main\java\com\iluwatar\servant\King.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\servant\src\main\java\com\iluwatar\servant\Queen.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\servant\src\main\java\com\iluwatar\servant\Royalty.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\servant\src\main\java\com\iluwatar\servant\Servant.java">
+</file>
+</checkstyle>

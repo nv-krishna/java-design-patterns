@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="C:\Krishna\sample-codebase\java-design-patterns\strategy\src\main\java\com\iluwatar\strategy\App.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\strategy\src\main\java\com\iluwatar\strategy\DragonSlayer.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\strategy\src\main\java\com\iluwatar\strategy\DragonSlayingStrategy.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\strategy\src\main\java\com\iluwatar\strategy\MeleeStrategy.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\strategy\src\main\java\com\iluwatar\strategy\ProjectileStrategy.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\strategy\src\main\java\com\iluwatar\strategy\SpellStrategy.java">
+</file>
+</checkstyle>

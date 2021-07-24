@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="C:\Krishna\sample-codebase\java-design-patterns\lazy-loading\src\main\java\com\iluwatar\lazy\loading\App.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\lazy-loading\src\main\java\com\iluwatar\lazy\loading\Heavy.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\lazy-loading\src\main\java\com\iluwatar\lazy\loading\HolderNaive.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\lazy-loading\src\main\java\com\iluwatar\lazy\loading\HolderThreadSafe.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\lazy-loading\src\main\java\com\iluwatar\lazy\loading\Java8Holder.java">
+</file>
+</checkstyle>

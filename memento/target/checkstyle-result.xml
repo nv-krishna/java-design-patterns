@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="C:\Krishna\sample-codebase\java-design-patterns\memento\src\main\java\com\iluwatar\memento\App.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\memento\src\main\java\com\iluwatar\memento\Star.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\memento\src\main\java\com\iluwatar\memento\StarMemento.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\memento\src\main\java\com\iluwatar\memento\StarType.java">
+</file>
+</checkstyle>

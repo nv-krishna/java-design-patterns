@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="C:\Krishna\sample-codebase\java-design-patterns\dependency-injection\src\main\java\com\iluwatar\dependency\injection\AdvancedSorceress.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\dependency-injection\src\main\java\com\iluwatar\dependency\injection\AdvancedWizard.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\dependency-injection\src\main\java\com\iluwatar\dependency\injection\App.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\dependency-injection\src\main\java\com\iluwatar\dependency\injection\GuiceWizard.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\dependency-injection\src\main\java\com\iluwatar\dependency\injection\OldTobyTobacco.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\dependency-injection\src\main\java\com\iluwatar\dependency\injection\RivendellTobacco.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\dependency-injection\src\main\java\com\iluwatar\dependency\injection\SecondBreakfastTobacco.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\dependency-injection\src\main\java\com\iluwatar\dependency\injection\SimpleWizard.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\dependency-injection\src\main\java\com\iluwatar\dependency\injection\Tobacco.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\dependency-injection\src\main\java\com\iluwatar\dependency\injection\TobaccoModule.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\dependency-injection\src\main\java\com\iluwatar\dependency\injection\Wizard.java">
+</file>
+</checkstyle>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="C:\Krishna\sample-codebase\java-design-patterns\private-class-data\src\main\java\com\iluwatar\privateclassdata\App.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\private-class-data\src\main\java\com\iluwatar\privateclassdata\ImmutableStew.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\private-class-data\src\main\java\com\iluwatar\privateclassdata\Stew.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\private-class-data\src\main\java\com\iluwatar\privateclassdata\StewData.java">
+</file>
+</checkstyle>

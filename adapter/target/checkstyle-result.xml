@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="C:\Krishna\sample-codebase\java-design-patterns\adapter\src\main\java\com\iluwatar\adapter\App.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\adapter\src\main\java\com\iluwatar\adapter\Captain.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\adapter\src\main\java\com\iluwatar\adapter\FishingBoat.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\adapter\src\main\java\com\iluwatar\adapter\FishingBoatAdapter.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\adapter\src\main\java\com\iluwatar\adapter\package-info.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\adapter\src\main\java\com\iluwatar\adapter\RowingBoat.java">
+</file>
+</checkstyle>

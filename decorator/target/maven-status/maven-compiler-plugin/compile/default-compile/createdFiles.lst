@@ -1,0 +1,4 @@
+com\iluwatar\decorator\App.class
+com\iluwatar\decorator\Troll.class
+com\iluwatar\decorator\ClubbedTroll.class
+com\iluwatar\decorator\SimpleTroll.class

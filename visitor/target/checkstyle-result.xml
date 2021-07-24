@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="C:\Krishna\sample-codebase\java-design-patterns\visitor\src\main\java\com\iluwatar\visitor\App.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\visitor\src\main\java\com\iluwatar\visitor\Commander.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\visitor\src\main\java\com\iluwatar\visitor\CommanderVisitor.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\visitor\src\main\java\com\iluwatar\visitor\Sergeant.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\visitor\src\main\java\com\iluwatar\visitor\SergeantVisitor.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\visitor\src\main\java\com\iluwatar\visitor\Soldier.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\visitor\src\main\java\com\iluwatar\visitor\SoldierVisitor.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\visitor\src\main\java\com\iluwatar\visitor\Unit.java">
+</file>
+<file name="C:\Krishna\sample-codebase\java-design-patterns\visitor\src\main\java\com\iluwatar\visitor\UnitVisitor.java">
+</file>
+</checkstyle>
